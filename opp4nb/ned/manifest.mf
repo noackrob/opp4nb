@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.opp4nb.ned
+OpenIDE-Module-Localizing-Bundle: org/opp4nb/ned/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
