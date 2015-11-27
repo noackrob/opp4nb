@@ -14,3 +14,7 @@ The following major Git branches have been created:
     * msg - as above but for MSG files.
     * more branches might be created as the project grows.
 
+
+## NetBeans, Java and the JDK
+
+The module will be developed primarily for the NetBeans IDE v8.1 and use JDK v1.8.
